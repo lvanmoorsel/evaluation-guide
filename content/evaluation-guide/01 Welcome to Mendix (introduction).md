@@ -27,6 +27,12 @@ The Mendix Platform brings together the people with ideas and the people with th
 
 For details, see [What Is the Vision Behind Mendix?](what-is-mendix#vision).
 
+## What Is Mendix? {#vision}
+
+[NEW TEXT]
+
+*[TODO: move to app lifecycle]
+
 ## How Does Mendix Optimize the Collaboration Between Business & IT? {#optimize-collaboration}
 
 To achieve the high levels of agility and continuous interactions required to collaborate effectively across multi-disciplinary teams, the Mendix Platform combines the following key concepts:
