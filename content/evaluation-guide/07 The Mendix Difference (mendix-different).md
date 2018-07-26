@@ -1,7 +1,7 @@
 ---
 title: "The Mendix Difference"
 parent: "introduction"
-menu_order: 70
+menu_order: 60
 tags: [""]
 ---
 
