@@ -1,7 +1,7 @@
 ---
 title: "What Is Mendix?"
 parent: "introduction"
-menu_order: 50
+menu_order: 40
 tags: [""]
 ---
 
