@@ -7,17 +7,35 @@ tags: [""]
 
 ## 1 How Is Mendix Different?
 
-{{% todo %}}[**Needs to be finished**]{{% /todo %}} 
+Mendix is the fastest and easiest platform to build and continuously improve Mobile and Web apps that enable innovation at web scale. It is the only application platform that provides a comprehensive, integrated set of tools for the entire app lifecycle, from ideation and development through deployment and operation.
 
-To-do: speed, collaboration, control
+This section zooms in on the main aspects why Mendix is different compared to others in the low code market.
 
-To-do: main differentiatiors:
-- collaboration
-- cloud-native / openess (SAP, IBM)
-- low-code + no-code
-- AI assisted development
+**Focus on business value**
 
-## 2 Low Code and No Code in a Single Platform
+We focus on adding business true value first. Mendix brings business and IT together with a creating a common language between both worlds. Mendix involves the business in the process from a requirements gathering and feedback perspective, as well as from a development perspective. The next section zooms in on how business users without any conding experience can build apps with Mendix.
+
+**Collaboration**
+
+The talent gap for software development is only widening. Teaching more people to program will not solve this, as the gap is exponentially growing. So, we need to involve a much broader audience in software development. They key to faster and better software delivery is collaboration. The Mendix Platform brings the people with ideas together with the people with the technical aptitude to execute those ideas.
+
+**Full Application Lifecycle Management support**
+
+{{% todo %}}[**Needs to be finished - after update of What is Mendix**]{{% /todo %}}
+
+**Strategic Partnerships**
+
+Mendix has strategic partnerships with both SAP and IBM.
+
+SAP has adopted the Mendix Platform as their own rapid application development platform for extending their solutions. The SAP Solution Extension partnership means you can not only purchase Mendix from SAP directly, but integrate Mendix with SAP in a variety of ways, take advantage of a single point of contact for support, and build Mendix apps on top of SAP.
+
+Mendix is the standard low-code development platform to be used on top of IBM Cloud. This means you can utilize IBM as a single contact for using Mendix on IBM Cloud.
+
+**Industry first**
+
+{{% todo %}}[**Needs to be finished - INPUT JOHAN**]{{% /todo %}} 
+
+## 1.2 Low Code and No Code in a Single Platform
 
 Both no-code and low-code tools use visual, model-driven development concepts to speed up and transform application development.
 
