@@ -1,5 +1,5 @@
 ---
-title: "Use Cases"
+title: "What Can I Build with Mendix?"
 parent: "introduction"
 menu_order: 50
 tags: [""]
