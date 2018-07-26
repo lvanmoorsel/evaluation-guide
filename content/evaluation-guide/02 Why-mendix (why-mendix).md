@@ -15,17 +15,16 @@ Why could this happen? It doesn't take long for Roald to realize that apparently
 
 As a next step, Roald starts using visual tools such as flow charts, user interface mockups and process mappings in the requirements discovery and software design phase. This allows the business to validate his interpretation of their requirements before any coding happens. Although a very valuable step forward, it leaves Roald with three additional problems. One: once validated, the actual coding becomes far less interesting, since the majority of thought process has happened during the requirements and design phase. Programming now often involves many repetitive tassk which in the end does not make any developer happy. Two: still, requirements often have to be reverse engineered by a developer from the comments the business stakeholders make. Three: it is becoming harder to keep up-to-date with the repidly evolving number of programming tools and languages across the spectrum. It is virtuallly impossible for a single developer to be proficient in back-end tooling, front-end tooling, database tooling and the different operating systems at the same time. This makes developers highly dependent on other people with specific skills which adds significant lead time to the software development project.
 
+This is the point at which Mendix is founded in the year 2005. Mendix was founded to bridge the business-IT gap and enable organizations with a whole new way to innovate and differentiate with apps.
 
+Avoiding the pitfalls of 4GL tooling (basically: it creates tomorrow's legacy), the Mendix founders set out to make model driven development a reality. The two core principles of this approach are abstraction and automation. 
+*	Abstraction: a software application model is defined on a higher abstraction level than in traditional coding
+*	Automation: the model is then converted into a working application using automated transformations or interpretations. 
+The right model-driven development approach leverages model execution at runtime rather than generating code. The model is transformed automatically into a working software application by interpreting and executing it. This removes the need to generate code at all. From the start, Mendix has made sure that any model is extensible: in this way highly specific application features can be built without sacrificing the benefits of model driven development.
 
+At the same time, Mendix has always realized that you need more than technology 
 
-REMOVE/REPLACE:
-
-Mendix is fundamentally changing how software is created. With the current generation of the Mendix Platform, business applications can be created 10 times faster in close collaboration with (or even wholly owned by) the business while IT is in control.
-
-Mendix was founded with a two-point mission that still holds true today:
-
-* To bridge the business-IT gap and enable organizations with a whole new way to innovate and differentiate with apps
-* Build a company that will attract, develop, excite and retain exceptional people
+...
 
 And thus Mendix came into creation. The name "Mendix" is derived from the verb *to mend*, which means to repair anything that is broken, torn, defaced, or the like.
 
