@@ -20,16 +20,17 @@ As a next step, Roald starts using visual tools such as flow charts, user interf
 This is the point at which Mendix is founded in the year 2005. Mendix was founded to bridge the business-IT gap and enable organizations with a whole new way to innovate and differentiate with apps. A new way: both in the technology used as in the process applied
 
 ### A new technology
-Avoiding the pitfalls of 4GL tooling (basically: it creates tomorrow's legacy), the Mendix founders set out to make model driven development a reality. The two core principles of this approach are abstraction and automation. 
+Avoiding the pitfalls of 4GL tooling (basically: it creates tomorrow's legacy), the Mendix founders set out to make visual model driven development a reality. The two core principles of this approach are abstraction and automation. 
 *	Abstraction: a software application model is defined on a higher abstraction level than in traditional coding
 *	Automation: the model is then converted into a working application using automated transformations or interpretations. 
 
-The right model-driven development approach leverages model execution at runtime rather than generating code. The model is transformed automatically into a working software application by interpreting and executing it. This removes the need to generate code at all. From the start, Mendix has made sure that any model is extensible: in this way highly specific application features can be built without sacrificing the benefits of model driven development.
+The right model-driven development approach leverages model execution at runtime rather than generating code. The model is transformed automatically into a working software application by interpreting and executing it. This removes the need to generate code at all. 
+With Mendix, model driven development is visual from start till finish, making sure the customer is engaged and requirements are aligned right from the get go. Moreover, Mendix has made sure that any model is extensible: in this way highly specific application features can be built without sacrificing the benefits of model driven development. 
 
 ### A new process
-At the same time, Mendix has always realized that you need more than technology to bridge the gap. An iterative, agile process is required that allows key users and stakeholders to be involved in every iteration, allowing for experimentation and on-the-spot feedback. While this process can be applied to any software development project, the unique combination of fast model driven development in an agile process speeds up the development hugely and at the same time ensures the customer will be happy with the result.
+At the same time, Mendix has always realized that you need more than technology to bridge the gap. An iterative, agile process is required that allows key users and stakeholders to be involved in every iteration, allowing for fast experimentation and on-the-spot feedback. While this process can be applied to any software development project, the unique combination of fast model driven development in an agile process speeds up the development hugely, while at the same time it ensures the customer will be happy with the result.
 
 ### This is who we are
 And thus Mendix came into creation. The name Mendix is derived from the verb *to mend*, which means 'to repair anything that is broken, torn, defaced, or the like'.
 
-We are a company full of people committed to help companies win in a software driven world, by successfully bridging a fundamental gap: Mendix is here to mend the relationship between business and IT.
+We are a company full of people committed to help companies win in a software driven world, by successfully bridging a highly fundamental gap: Mendix is here to mend the relationship between business and IT.
