@@ -11,8 +11,6 @@ With Mendix, you can build a wide range of transactional, event-driven, and adja
 
 The [Mendix App Gallery](https://gallery.mendix.com) showcases all kinds of applications built using the Mendix Platform. These applications are there to present you with the art of the possible.
 
-{{% todo %}}[**Make more level 1 questions**]{{% /todo %}}
-
 ### 1.1 What Types of Projects Are a Good Fit for Mendix?
 
 Based on Gartner’s [Pace-Layered Model](https://www.gartner.com/binaries/content/assets/events/keywords/applications/apn30/pace-layered-applications-research-report.pdf), an organization’s application landscape is made up of three distinct layers with a corresponding rate of change. This rate of change is dictated by the uniqueness of the solutions and how concrete the requirements are.
