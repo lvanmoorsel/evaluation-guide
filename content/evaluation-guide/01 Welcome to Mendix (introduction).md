@@ -7,7 +7,11 @@ tags: [""]
 
 The Mendix Platform is designed to accelerate enterprise app delivery across your entire application development lifecycle, from ideation to development, deployment, and the ongoing management of your application portfolio in the cloud or on premises.
 
-Mendix offers both no-code (collaborative visual modeling) and low-code (highly extensible and integrated, collaborative tooling to support cross-functional teams) solutions. Business domain experts such as analysts and citizen developers can work alongside expert developers to achieve much greater levels of business agility and accelerated delivery. The Mendix Platform's cloud-native architecture and automation tools support the deployment, management, and monitoring of highly available enterprise-grade applications. 
+Mendix offers both no-code and low-code tooling in one single platform:
+* No-code: collaborative visual modeling by business domain experts
+* Low-code: highly extensible and integrated, collaborative tooling to support cross-functional teams
+
+The result: business domain experts such as analysts and citizen developers can work alongside expert developers to achieve much greater levels of business agility and accelerated delivery. Moreover, the Mendix Platform's cloud-native architecture and automation tools support the deployment, management, and monitoring of highly available enterprise-grade applications. 
 
 Based on our three core principles of speed, collaboration, and control, Mendix offers a complete platform for your enterprise application delivery needs.
 
