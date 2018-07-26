@@ -1,7 +1,7 @@
 ---
 title: "What Can I Build with Mendix??"
 parent: "introduction"
-menu_order: 60
+menu_order: 50
 tags: ["{#can-i-build}"]
 ---
 
