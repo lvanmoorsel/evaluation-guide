@@ -1,7 +1,7 @@
 ---
 title: "The Mendix Vision"
 parent: "introduction"
-menu_order: 40
+menu_order: 20
 tags: [""]
 ---
 
