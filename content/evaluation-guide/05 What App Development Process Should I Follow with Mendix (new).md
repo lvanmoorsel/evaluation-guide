@@ -5,11 +5,9 @@ menu_order: 50
 tags: [""]
 ---
 
-Mendix adopts a DevOps methodology with a high focus on business and IT collaboration, also known as a BizDevOps or DevOps 2.0. Mendix has optimized the BizDevOps approach for the low-code uses. This combination of changing the process to [BizDevOps ](#bizdevops) and using [low-code](#low-code) in this process results in a shorter feedback loop and [changes the roles](#changing-roles) within the software development process.
-
-The sections below go deeper into this Mendix process.
-
 ## 1 The BizDevOps Process {#bizdevops}
+
+Mendix adopts a DevOps methodology with a high focus on business and IT collaboration, also known as a BizDevOps or DevOps 2.0. Mendix has optimized the BizDevOps approach for the low-code uses. This combination of changing the process to [BizDevOps ](#bizdevops) and using [low-code](#low-code) in this process results in a shorter feedback loop and [changes the roles](#changing-roles) within the software development process.
 
 This section explains the concept of the BizDevOps process and compares this with other software development processes.
 
