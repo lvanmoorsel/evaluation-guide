@@ -7,11 +7,11 @@ tags: [""]
 
 ## 1 What Is the Vision Behind Mendix?
 
-The fundamental belief at Mendix is that software should not be something just for IT. Every company needs to become a software company to survive in a software-driven world. The whole organization needs to be collaborating on the lifeblood of the business, which is software. The future of each company depends on it. Experimentation and innovation by people that know the business domain is key to survival.
+Our fundamental belief is that software should not be something just for IT. Every company needs to become a software company to survive in a software-driven world. The whole organization needs to be collaborating on the lifeblood of the business, which is technology. The future of each company depends on it. Experimentation and innovation by people that know the business domain is key to survival.
 
-The Mendix vision is to enable a whole range of people with different backgrounds to be successful in creating software that delivers actual business value. Mendix enables business domain experts through abstraction, automation, and intelligent assisted development. Mendix enables professional developers by giving them low-level control, extensibility using programming languages like Java and JavaScript, and a completely open meta-model as well as the APIs to interact with any part of the Mendix Platform, including the models.
+The Mendix vision is to enable a whole range of people with different backgrounds to be successful in creating software that delivers actual business value. Mendix enables business domain experts to contribute to software development in an intuitive visual way. Mendix enables professional developers by giving them low-level control, extensibility using programming languages like Java and JavaScript, and a completely open meta-model as well as the APIs to interact with any part of the Mendix Platform, including the models.
 
-This results in the three core principles of the Mendix Platform:
+There are three core principles of the Mendix Platform:
 
 {{% todo %}}[**Add diagrams for 3 core principles [prio2]**]{{% /todo %}}
 
