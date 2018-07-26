@@ -5,7 +5,7 @@ menu_order: 10
 tags: [""]
 ---
 
-## 1 Why was Mendix founded? {#vision}
+## 1 Why was Mendix founded?
 
 The founders of Mendix learned it the hard way: delivering software that fulfills business needs is extremely hard and fails more often than it succeeds. Mendix was founded on the belief that software development could only be significantly improved if there was a paradigm shift. And that’s exactly what Mendix introduced.
 
@@ -28,6 +28,8 @@ The right model-driven development approach leverages model execution at runtime
 ### A new process
 At the same time, Mendix has always realized that you need more than technology to bridge the gap. An iterative, agile process is required that allows key users and stakeholders to be involved in every iteration, allowing for experimentation and on-the-spot feedback. While this process can be applied to any software development project, the unique combination of fast model driven development in an agile process speeds up the development hugely and at the same time ensures the customer will be happy with the result.
 
-And thus Mendix came into creation. The name "Mendix" is derived from the verb *to mend*, which means to repair anything that is broken, torn, defaced, or the like.
+### This is who we are
+And thus Mendix came into creation. A company full of people committed to help companies win in a software driven world, by successfully bridging a fundamental gap:
 
+The name "Mendix" is derived from the verb *to mend*, which means to repair anything that is broken, torn, defaced, or the like.
 Mendix is here to mend the relationship between business and IT.
