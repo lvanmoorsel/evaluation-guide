@@ -12,6 +12,16 @@ Openness and extensibility hooks are available across the platform. This include
 
 ## {Video}
 
+## What Does the Mendix Architecture Look Like? {#architecture}
+
+Mendix is a fully open platform that leverages open standards and open-source technologies to meet the demands of today's enterprise software delivery requirements. Our stateless architecture is Twelve-Factor App methodology-compatible and supports highly available and scalable solutions running in container technologies like Docker, Kubernetes, and Cloud Foundry or on top of Windows or Linux.  
+
+At its core, the Mendix Platform is open and extensible on every level, from integration to your existing development landscape for CI/CD and DevOps.
+
+For details, see [What Does the Mendix Architecture Look Like?](what-is-mendix#architecture).
+
+*[TODO: MOVE this question TO OTHER SECTION: MENDIX PLATFORM ARHICTECTURE]*
+
 ## Which Technologies Are Behind the Mendix Platform?
 
 {Brief answer}
