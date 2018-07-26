@@ -62,8 +62,8 @@ Next, the business analyst (who talks to the business) works together with a mor
 
 This small development team runs the entire application delivery lifecycle without the direct help of a database expert, Java programmer, UX/UI expert, test engineer, project manager, or operations staff. All these roles are still important, especially in an enterprise-scale delivery of multiple applications. However, they are part of a higher level Center of Excellence, which is often spread between multiple Mendix application development teams.
 
+![](attachments/Mendix_RAD_process.png)
+
 ### 3.2 Roles in Center of Excellence (CoE)
 
 The roles in the Center of Excellence can be seen as enablers of the core development team, delivering the specific knowledge needed to align the development of multiple apps from a performance, UX/UI, integration, architecture, or process perspective.
-
-![](attachments/Mendix_RAD_process.png)
