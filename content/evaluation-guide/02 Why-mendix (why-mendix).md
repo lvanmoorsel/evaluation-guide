@@ -23,6 +23,7 @@ This is the point at which Mendix is founded in the year 2005. Mendix was founde
 Avoiding the pitfalls of 4GL tooling (basically: it creates tomorrow's legacy), the Mendix founders set out to make model driven development a reality. The two core principles of this approach are abstraction and automation. 
 *	Abstraction: a software application model is defined on a higher abstraction level than in traditional coding
 *	Automation: the model is then converted into a working application using automated transformations or interpretations. 
+
 The right model-driven development approach leverages model execution at runtime rather than generating code. The model is transformed automatically into a working software application by interpreting and executing it. This removes the need to generate code at all. From the start, Mendix has made sure that any model is extensible: in this way highly specific application features can be built without sacrificing the benefits of model driven development.
 
 ### A new process
@@ -31,5 +32,5 @@ At the same time, Mendix has always realized that you need more than technology 
 ### This is who we are
 And thus Mendix came into creation. A company full of people committed to help companies win in a software driven world, by successfully bridging a fundamental gap:
 
-The name "Mendix" is derived from the verb *to mend*, which means to repair anything that is broken, torn, defaced, or the like.
+The name Mendix is derived from the verb *to mend*, which means to repair anything that is broken, torn, defaced, or the like.
 Mendix is here to mend the relationship between business and IT.
