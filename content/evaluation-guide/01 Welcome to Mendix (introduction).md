@@ -15,7 +15,11 @@ Based on our three core principles of speed, collaboration, and control, Mendix 
 
 **[Idea from Roald: should be a 1.5 minute personal video with Johan talking]**
 
-## What Is the Vision Behind Mendix? {#vision}
+## Why was Mendix founded?
+
+[NEW TEXT]
+
+## What Is the Mendix Vision? {#vision}
 
 Our vision in a world where software is the lifeblood of every company is to empower people with diverse skills and backgrounds to collaborate successfully and create better software that delivers true business value. Mendix can accomplish this more quickly and at a significantly lower cost than ever before.
 
@@ -34,14 +38,6 @@ To achieve the high levels of agility and continuous interactions required to co
 Project team members are connected instantly and interactively to changes and updates about new requirements, software revisions, updates, and shipments, including test results and feedback loops from end-users. This live feed becomes the backbone for the collaborative process, while visual models and drag-and-drop WYSYWG editors lower the barrier to entry for business users to participate in the app development process.
 
 Read more in [How Does Mendix Optimize the Collaboration Between Business & IT?](what-is-mendix#optimize-collaboration).
-
-## What Does the Mendix Architecture Look Like? {#architecture}
-
-Mendix is a fully open platform that leverages open standards and open-source technologies to meet the demands of today's enterprise software delivery requirements. Our stateless architecture is Twelve-Factor App methodology-compatible and supports highly available and scalable solutions running in container technologies like Docker, Kubernetes, and Cloud Foundry or on top of Windows or Linux.  
-
-At its core, the Mendix Platform is open and extensible on every level, from integration to your existing development landscape for CI/CD and DevOps.
-
-For details, see [What Does the Mendix Architecture Look Like?](what-is-mendix#architecture).
 
 ## Read More
 
