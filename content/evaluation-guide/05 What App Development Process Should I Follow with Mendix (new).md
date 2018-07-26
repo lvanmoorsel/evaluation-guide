@@ -1,7 +1,7 @@
 ---
 title: "What App Development Process Should I Follow with Mendix?"
 parent: "introduction"
-menu_order: 50
+menu_order: 40
 tags: [""]
 ---
 
