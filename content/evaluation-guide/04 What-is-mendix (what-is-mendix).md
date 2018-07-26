@@ -9,29 +9,34 @@ tags: [""]
 
 Mendix is a low-code platform for delivering enterprise applications. The Mendix Platform covers the entire lifecycle of an application, from the initial idea to developing, deploying, operating, and evolving the application.
 
-This is a brief overview of Mendix capabilities:
+With Mendix you can accelarate every step of your app life cycle.
 
-* Agile requirements management
-  * Sprint and story management
-    * Integrated feedback management via embedded feedback widgets that enable end-users to provide instant feedback directly within an application
-    * A closed feedback loop enables the development team to quickly resolve queries from the business, facilitating rapid iteration
-    * Built-in app validation with instant app sharing can further enhance collaboration
-* Application development
-    * Visual modeling languages for all the aspects of a business application
-      * Web and mobile UI, data, logic, integration, and security
-    * Version management and team collaboration with a built-in Team Server
-    * Consistency checks to prevent technical errors in the application with real-time error checking
-    * Visual debugging
-* Automated Testing and CI/CD
-    * {{% todo %}}[**Needs to be finished**]{{% /todo %}} 
-* Application deployment
-    * The ability to deploy with one click to any cloud environment directly from Mendix's app modeling environment enables developers with any background to bring applications to their users
-    * Multi-cloud deployment options
-* Application monitoring
-    * Monitoring & alerts
-    	* {{% todo %}}[**Needs to be finished**]{{% /todo %}} 
-* Portfolio management
-    	* {{% todo %}}[**Do we have enough capabilities to mention this?**]{{% /todo %}}
+{{% todo %}}[**Add ALM slide/image**]{{% /todo %}} 
+
+**Ideate**
+
+The first step of the Application Lifecycle Management process is Ideation. The Mendix Developer Portal enables a *new approach to solve problems* and facilitates [agile requirements management](../app-lifecycle/agile-requirements-management) of your app development. With capabilities as sprint and story management and integrated feedback management via embedded feedback widgets that enable end-users to provide instant feedback directly within an application. The closed feedback loop enables the development team to quickly resolve queries from the business, facilitating rapid iteration.
+
+
+The value of collaboration is strengthened through the Mendix Platform’s support for Agile reqirements management. Learn about the Agile tools built into Mendix that will help you to manage your projects and teams effectively from day one.
+
+**Develop**
+
+The next step is to developer your application and *convert ideas into app logic*. Mendix uses visual modeling languages for all the aspects of a business application and is designed for a variety of users, while providing powerful capabilities to developers for their day-to-day work. Read section [Developing in Mendix](app-lifecycle/developing-in-mendix) to discover all these capabilities.
+   
+**Test**
+
+The Mendix Platform provides development teams with an extensive toolset with extension points to set up effective quality assurance with efficient test automation. In the section [Test Automation & Quality Assurance](/app-lifecycle/test-automation-qa), you will learn more about capabilities how Mendix *automatically checks for consistancy* to prevent technical errors in the application with real-time error checking, visual debugging, Automated Testing and CI/CD.
+
+The Mendix Platform contains an integrated automated quality governance tool called Application Quality Monitor (AQM), which *monitors the quality during operation*. AQM offers a dashboard that provides instant insight into the quality of the application models that you are building and provides insight on the right granularity of apps and microservices. 
+
+**Deploy**
+
+Mendix provides all the cloud deployment options you need and is fully optimized for compatibility with the latest cloud platforms and technologies. Running and deploying your Mendix app is easy, fast, and flexible. The ability to deploy with one click *to any cloud environment or on-premise* directly from Mendix's app modeling environment enables developers with any background to bring applications to their users. Read more in the [Deplopyment](/app-capabilities/deployment) section about why cloud technology is at the core of the Mendix Platform.
+
+**Control**
+
+{{% todo %}}[**FINISH**]{{% /todo %}} 
 		
 # 2 Who Uses Mendix?
 
@@ -40,5 +45,3 @@ Mendix helps the world's largest organizations create innovative applications at
 There are more than 60,000 Mendix community members ready to help you. Visit the [Mendix Community site](https://developers.mendix.com/) to explore content, ask questions, and enroll at the Mendix Academy.
 
 {{% todo %}}[**Write new section [PRIO2]: 3 How Does Visual Modeling Work?**]{{% /todo %}}
-
-
