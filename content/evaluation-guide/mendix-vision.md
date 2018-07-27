@@ -15,7 +15,7 @@ The Mendix vision is to enable a whole range of people with different background
 * Mendix enables IT departments to manage their application landscapes and to provide guardrails for business domain experts to build apps
 
 ### Speed, Collaboration and Control
-There are three core principles of the Mendix Platform:
+The Mendix Platform makes this vision a reality. There are three core principles of the Mendix Platform underlying every single platform feature:
 
 {{% todo %}}[**Add diagrams for 3 core principles [prio2]**]{{% /todo %}}
 
