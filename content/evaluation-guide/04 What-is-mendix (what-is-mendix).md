@@ -53,7 +53,9 @@ Mendix provides all the cloud deployment options you need and is fully optimized
 
 **Control**
 
-{{% todo %}}[**FINISH**]{{% /todo %}} 
+With Mendix, security, performance, scalability, and governance are built in. This means that the business can be enabled while IT stays in control.
+
+{{% todo %}}[**ADAM: do you know where we can link to from this section?**]{{% /todo %}} 
 		
 # 2 Who Uses Mendix?
 
