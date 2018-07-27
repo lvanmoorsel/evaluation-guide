@@ -7,7 +7,15 @@ tags: [""]
 
 ## 1 What Is Mendix?
 
-Mendix is a low-code platform for delivering enterprise applications. The Mendix Platform covers the entire lifecycle of an application, from the initial idea to developing, deploying, operating, and evolving the application.
+The Mendix Platform is designed to accelerate enterprise app delivery across your entire application development lifecycle, from ideation to development, deployment, test and the ongoing management of your application portfolio in the cloud or on premises.
+
+Mendix offers both no-code and low-code tooling in one single platform:
+* No-code: collaborative visual modeling by business domain experts
+* Low-code: highly extensible and integrated, collaborative tooling to support cross-functional teams
+
+The result: business domain experts such as analysts and citizen developers can work alongside expert developers to achieve much greater levels of business agility and accelerated delivery. Moreover, the Mendix Platform's cloud-native architecture and automation tools support the deployment, management, and monitoring of highly available enterprise-grade applications.
+
+Based on our three core principles of speed, collaboration, and control, Mendix offers a complete platform for your enterprise application delivery needs.
 
 With Mendix you can accelarate every step of your app life cycle.
 
@@ -22,11 +30,20 @@ The value of collaboration is strengthened through the Mendix Platform’s suppo
 
 **Develop**
 
-The next step is to developer your application and *convert ideas into app logic*. Mendix uses visual modeling languages for all the aspects of a business application and is designed for a variety of users, while providing powerful capabilities to developers for their day-to-day work. Read section [Developing in Mendix](app-lifecycle/developing-in-mendix) to discover all these capabilities.
+The next step is to develop your application and *convert ideas into app logic*. Mendix uses visual modeling languages for all the aspects of an application and is designed for a variety of users, while providing powerful capabilities to developers for their day-to-day work. 
+
+* Business Analysts and Business Developers can directly use the Mendix Web Modeler to build, review, and collaborate on an app.
+Developers with a technical programming background can use the Mendix Desktop Modeler along with Java and JavaScript to build and extend an app.
+* Product Owners use the Mendix Developer Portal to govern user requirements, end-user feedback, and sprint backlogs.
+* End-users involved in running acceptance tests can use the app in combination with the Mendix Feedback widget. This feedback is directly connected to the Mendix Developer Portal, so the Product Owner can review and validate the user feedback.
+
+With Mendix, development is visual from start till finish, making sure the customer is engaged and requirements are always aligned, right from the get go and throughout the development cycle. To avoid developers getting stuck, Mendix has made sure that any model is extensible: in this way highly specific application features and low-level optimizations can be built without sacrificing the benefits of model driven development.
+
+Read section [Developing in Mendix](app-lifecycle/developing-in-mendix) to discover all these capabilities.
    
 **Test**
 
-The Mendix Platform provides development teams with an extensive toolset with extension points to set up effective quality assurance with efficient test automation. In the section [Test Automation & Quality Assurance](/app-lifecycle/test-automation-qa), you will learn more about capabilities how Mendix *automatically checks for consistancy* to prevent technical errors in the application with real-time error checking, visual debugging, Automated Testing and CI/CD.
+The Mendix Platform provides development teams with an extensive toolset with extension points to set up effective quality assurance with efficient test automation. In the section [Test Automation & Quality Assurance](/app-lifecycle/test-automation-qa), you will learn more about capabilities how Mendix *automatically checks for consistency* to prevent technical errors in the application with real-time error checking, visual debugging, Automated Testing and CI/CD.
 
 The Mendix Platform contains an integrated automated quality governance tool called Application Quality Monitor (AQM), which *monitors the quality during operation*. AQM offers a dashboard that provides instant insight into the quality of the application models that you are building and provides insight on the right granularity of apps and microservices. 
 
