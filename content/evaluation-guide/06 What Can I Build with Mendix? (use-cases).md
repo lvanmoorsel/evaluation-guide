@@ -17,15 +17,15 @@ Based on Gartner’s [Pace-Layered Model](https://www.gartner.com/binaries/conte
 
 At the bottom of the model, you have the system of record, which is the foundation of the business. This a structurally solid system with a slow rate of change and well-defined requirements. In the middle, you have the system of differentiation, which focuses on fostering outside-in and customer-centric thinking, accelerating the rate of change, and developing unique approaches to sustain differentiation. At the top, you have the system of innovation, which represents brand new ideas for the organization and thus has fuzzy requirements and a high rate of change.
 
-Mendix helps most in projects where the requirements are not completely defined up front and in projects that have a high rate of change. In line with Gartner’s Pace-Layered Application Strategy, a system of differentiation or innovation matches these criteria. For a system of record, Mendix is only a good fit if one of the following points is applicable:
+Mendix helps most in projects where the requirements are not completely defined up front and in projects that have a high rate of change. In line with Gartner’s Pace-Layered Application Strategy, a system of differentiation or innovation matches these criteria. For a system of record, Mendix is a good fit if one of the following points is applicable:
 
 * The application is not available off the shelf
 * The off-the-shelf solution is too complex and/or or too expensive
-* The customer needs more customization
+* The customer needs customization
 * The customer needs to differentiate against competitors
 * The customer wants more control over future capabilities
 
-There are three types of projects that are a good fit for Mendix:
+The following types of projects are a natural fit for Mendix:
 
 *  **Systems of innovation projects** that are built to create new ways of working
    *  Often customers do not know exactly what they need, so they need to experiment before and after the app's go-live
@@ -54,8 +54,6 @@ This section will highlight some features that enable you to build innovation ap
 * **The Web Modeler** enables business users to build prototypes that development teams can continue to enhance via the Desktop Modeler
 * **Out-of-the-box [connectors](../app-lifecycle/app-store-reuse#connectors)** simplify integrating with third-party databases or applications, handling complex XML messages, and utilize IoT and cognitive services, which enables developers to leverage emerging technologies and legacy systems with minimal dependencies on IT
 * **Requirement management**, the easy-to-use [Developer Portal](../app-lifecycle/requirements-management#1-how-is-requirements-management-positioned-in-mendix) allows business users to create and track their own user stories, enables the development teams to adopt a Scrum-based development approach and shortens the feedback loop between development teams and the business
-
-Mendix enables  through easy-to-use backlog management features, feedback gathering and management tools, and rapid deployment to testing, acceptance, and production environments (collaborative // iterative) c heck section
 
 Some great examples of innovation apps built with Mendix are AntTail’s [medicine tracking app](https://www.mendix.com/blog/anttail-ensures-quality-medicines-iot/), Solomon Group’s [RFID wristband event access app](https://www.mendix.com/blog/solomon-group-iot-solution/), KLM’s [IoT equipment tracking app](https://www.mendix.com/blog/comes-building-iot-apps-klm-says-just/), and Heijman’s [IoT-based smart building management app](https://www.mendix.com/our-customers/heijmans/).
 
@@ -86,7 +84,7 @@ Most legacy migration Mendix application projects are business-driven transforma
 *  **High Availability**, the Mendix Cloud offers high availability for all app environments, ensuring zero downtime in the case of a Mendix Runtime outage
 *  **The Mendix [Application Quality Monitor](../app-lifecycle/model-consistency#aqm)** provides benchmarks into the maintainability of apps based on the ISO 25010 standard, to ensure you don't build tomorrows legacy
 * **Integration options**, Mendix offers you an extensive array of [tools](../app-capabilities/integration-overview) to handle integrations
-* **Data migrition tooling** intgrated in the Mendix platform, like visual data mapping, allows you to create the optimal data model for the new solution (with traceability back to systems of record). Not simply recreate the legacy systems’ model
+* **Data migration tooling** intgrated in the Mendix platform, like visual data mapping, allows you to create the optimal data model for the new solution (with traceability back to systems of record). Not simply recreate the legacy systems’ model
 
 Examples of legacy migrations include transferring legacy [Lotus Notes](https://www.mendix.com/blog/how-one-customer-is-using-mendix-for-legacy-application-migration/), Microsoft Access, SharePoint, or Excel applications to an updated system.
 
@@ -96,7 +94,7 @@ While there are endless possibilities for what apps can be built with the platfo
 
 If your application can already be bought off the shelf and provides 100% of the requirements you need, then Mendix suggests buying that off-the-shelf product. Buying such a solution is often more cost-effective (based on best practices) and it is faster to implement. Typically, these off-the-shelf solutions are available for traditional system-of-record applications (which have a low rate of change), because the processes are well-established, common to most organizations, and often subject to regulatory requirements.
 
-However, there are situations when the Mendix platform is a good fit even if the app that needs to be built is a traditional system of record. These are situations in which the off-the-shelf solution is too complex and/or too expensive, you need more customization, you need to differentiate against your competitors, or you would like to have more control over future capabilities. Mendix can extend any application or stay stand-alone.
+However, there are situations when the Mendix platform is a good fit even if the app that needs to be built is a traditional system of record. Section 1 {{% todo %}}[LINK TO SECTION 1: what types are a good fit]{{% /todo %}} describes the points when is Mendix is a good fit. Mendix can extend any application or stay stand-alone.
 
 In addition to such systems of records, the Mendix Platform is not a good fit for building games or replacing full ESB solutions.
 
