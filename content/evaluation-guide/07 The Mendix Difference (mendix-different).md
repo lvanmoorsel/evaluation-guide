@@ -21,7 +21,7 @@ The talent gap for software development is only widening. Teaching more people t
 
 **Full Application Lifecycle Management support**
 
-{{% todo %}}[**Needs to be finished - after update of What is Mendix**]{{% /todo %}}
+The Mendix Platform is designed to accelerate enterprise app delivery across your entire application development lifecycle, from ideation to development, deployment, test and the ongoing management of your application portfolio in the cloud or on premises.
 
 **Strategic Partnerships**
 
@@ -33,7 +33,7 @@ Mendix is the standard low-code development platform to be used on top of IBM Cl
 
 **Industry first**
 
-{{% todo %}}[**Needs to be finished - INPUT JOHAN**]{{% /todo %}} 
+Innovation happens when people with ideas and technology come together. The culture of innovation lives within Mendix from the day that the company is started, resulting in long list of industry-first innovations. Here just a grap of these industry-first innovations as a Low Code platform: App Store (2010), Full Application Lifecycle Management support (2012), 1-click Cloud Deploy (2013), Platform API (2013), Mobile support (2014), Sandboxes/Free cloud environments (2014), Cloud Foundry support (2014), Offline Mobile support (2015), Model Share (2015), Model API & SDK (2015), Horizontal scalability (2015), Cloud-native low-code app runtime (2017), High-control and scalable cloud (2017), low-code and no-code collaboration via Web Modeler (2017) and adopting Kubernetes (2017).
 
 ## 1.2 Low Code and No Code in a Single Platform
 
