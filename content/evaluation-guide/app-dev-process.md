@@ -35,9 +35,7 @@ What is more, the combination of the evolving processes and the involvement of l
 
 There are three main roles involved in a core development team in Mendix low-code BizDevOps projects. 
 
-The other roles that were traditionally part of the development process are involved too, as enablers of the project
-
-The other roles that were traditionally part of the development process are involved too, as enablers of the project. They are often involved as an enabler and specialist over the complete program/portfolio of apps that are under development.
+The other roles that were traditionally part of the development process are involved too, as enablers and specialists of the project and over the complete program/portfolio of apps that are under development.
 
 ### 3.1 Three Roles in the Core Development Team
 
