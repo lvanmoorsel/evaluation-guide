@@ -5,7 +5,7 @@ menu_order: 40
 tags: [""]
 ---
 
-## 1 What Development Process Works Best for Mendix {#bizdevops}
+## 1 What Development Process Works Best for Mendix? {#bizdevops}
 
 Mendix adopts a DevOps methodology with a high focus on business and IT collaboration, also known as a **BizDevOps** or **DevOps 2.0**. Mendix has optimized the BizDevOps approach for the low-code uses. This combination of changing the process to BizDevOps and using low-code in this process results in a shorter feedback loop and [changes the roles](#changing-roles) within the software development process.
 
