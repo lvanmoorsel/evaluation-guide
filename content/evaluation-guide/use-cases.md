@@ -63,7 +63,7 @@ These are the key features that enable you to build customer engagement apps in 
 
 * **[Multichannel apps](app-capabilities/ux-multi-channel-apps)** can be built once for all channels via the [WYSIWYG page editor](app-lifecycle/user-interfaces#build-pages) that enables users without front-end development or UI design skills to create beautiful, engaging, and highly usable multi-channel apps
 * **[The Atlas UI framework](app-capabilities/ui-design#atlas-ui)** enables you to build pixel perfect apps, and your company's UI/UX team to create a package containing the organization’s design language for use across development teams, ensuring consistency while broadly leveraging the skills of what could be a small UI/UX team
-* **[Horizontal scalability](enterprise-capabilities/architecture-principles#statelessness)** allows additional resources to be added easily as required to support increasing user or processing loads
+* **[Horizontal scalability](enterprise-capabilities/architecture-principles#statelessness)** allows additional resources to be added easily as required to support increasing usage or processing loads
 
 Some examples of customer engagement app built with Mendix are agent/broker portals, customer portals, [self-service policy administration apps](https://www.mendix.com/our-customers/texas-life/), claims management apps, and student service applications for universities.
 
