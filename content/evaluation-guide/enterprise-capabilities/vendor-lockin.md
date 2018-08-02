@@ -1,5 +1,5 @@
 ---
-title: "Vendor Lock-In"
+title: "No vendor Lock-In"
 parent: "openness-extensibility"
 menu_order: 10
 bg: "openness"
